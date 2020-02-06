@@ -4,6 +4,21 @@ body{
 
 
 
+/*Jumbotron*/
+
+.jumbotron-top {
+    background-image: url(https://image.freepik.com/free-photo/panorama-statue-liberty-with-one-world-trade-building-center-hudson-river-new-york-cityscape-background-landmarks-lower-manhattan-new-york-city_1439-233.jpg);
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+	background-repeat: no-repeat;
+    padding: 2%;
+}
+
+.display-4{background-color: whitesmoke;
+           }
+
+   .lead{background-color: whitesmoke;}        
 
 
 /*Portfolio*/
