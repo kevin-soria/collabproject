@@ -1,31 +1,8 @@
-* {
-    color: rgba(70, 70, 70, 0.911);
-}
-
 body{
     background: white;
 }
-/* asdfasdf */
-/*Jumbotron*/
 
-.jumbotron-top {
-    background-image: url(https://image.freepik.com/free-photo/panorama-statue-liberty-with-one-world-trade-building-center-hudson-river-new-york-cityscape-background-landmarks-lower-manhattan-new-york-city_1439-233.jpg);
-    width: 100%;
-    height: 500px;
-    background-size: cover;
-	background-repeat: no-repeat;
-    padding: 4%;
-    margin-top: 0px!important;
-}
-
-    .container-fluid {
-    margin: 0px;
-    padding: 0px;
-}
-
-    .display-4{background-color: whitesmoke;
-            font-weight: bold; }
-
+<<<<<<< HEAD
 <<<<<<< HEAD
 /*Portfolio*/
 =======
@@ -35,20 +12,18 @@ body{
 .link a {
  color: white;
 }
+=======
+>>>>>>> 0a8e0c1d70a8fdc5260a72de210b8d1e834d473a
 
-/* carousel */
 
-.carousel {
-    height: 600px;
-    width: 1200px;
-}
 
-.slide {
-    height: 600px;
-}
 
+<<<<<<< HEAD
 /* Portfolio */
 >>>>>>> 5071fc841d3efd336372c1fb0b78210141785f81
+=======
+/*Portfolio*/
+>>>>>>> 0a8e0c1d70a8fdc5260a72de210b8d1e834d473a
 
 .portfolio-jumbotron {
     border-top: solid rgba(199, 199, 199, 0.548) 1px;
@@ -58,7 +33,6 @@ body{
 .portfolio-jumbotron-header {
     font-size: 40px;
     font-weight: bold;
-    background-color: white;
 }
 
 .portfolio-icon {
@@ -70,11 +44,9 @@ body{
     transform: rotate(360deg);
     transition: all 0.6s ease-in-out 0s;
 }
-}
 
 .portfolio-jumbotron-text {
     margin-bottom: 8px;
-    background-color: white;
 }
 
 .portfolio-deck {
@@ -116,13 +88,73 @@ body{
   box-shadow: 0px 0px 10px 0px black;
 }
 
-.portfolio-links {
-    text-decoration: none;
-    color: rgba(70, 70, 70, 0.911);
+
+/* first headings--------------------------------->* first headings--------------------------------->* first headings--------------------------------->*/
+.imgcircle1 {
+  border-radius: 50%;
+width: 200px;
+    height: 300px 
+
+}
+.imgcircle2 {
+  border-radius: 50%;
+    width: 200px;
+    height: 300px;
 }
 
+/* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
+.flip-card {
+  background-color: transparent;
+  width: 300px;
+  height: 200px;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px;
+  /* Remove this if you don't want the 3D effect */
+}
+
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+ 
+}
+
+/* Position the front and back side */
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
+
+/* Style the back side */
+.flip-card-back {
+  background-color: grey;
+  color: white;
+  transform: rotateY(180deg);
+}
+
+<<<<<<< HEAD
 .portfolio-links:hover {
     text-decoration: none;
     color: black;
 }
 >>>>>>> 5071fc841d3efd336372c1fb0b78210141785f81
+=======
+>>>>>>> 0a8e0c1d70a8fdc5260a72de210b8d1e834d473a
