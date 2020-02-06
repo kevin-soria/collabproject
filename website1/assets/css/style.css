@@ -14,15 +14,10 @@ body{
 }
 
 .display-4{background-color: whitesmoke;
-             }
+            font-weight: bold; }
 
-<<<<<<< HEAD
    .lead{background-color: whitesmoke;
-            font-weight: bold;
-=======
-   .lead1{background-color: whitesmoke;
    font-weight: bold;
->>>>>>> 6cf569fa1bc07947273b84cb236c1a68433bbd44
    }        
 
 
