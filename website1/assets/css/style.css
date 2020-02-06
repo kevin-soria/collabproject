@@ -73,3 +73,13 @@ body{
   top: -10px;
   box-shadow: 0px 0px 10px 0px black;
 }
+
+.portfolio-links {
+    text-decoration: none;
+    color: black;
+}
+
+.portfolio-links:hover {
+    text-decoration: none;
+    color: black;
+}
