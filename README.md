@@ -2,7 +2,7 @@
 
 To run:
 
-cd exercise-git-collabration
+cd website1
 $ python3 -m http.server 3000
 
 Use this project to practice your students skills in GIT while developing a porfolio website.
