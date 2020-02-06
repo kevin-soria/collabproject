@@ -9,13 +9,19 @@ body{
 /*Portfolio*/
 
 .portfolio-jumbotron {
-    border-top: solid rgb(172, 171, 171) 1px;
+    border-top: solid rgba(199, 199, 199, 0.548) 1px;
     background-color: white;
 }
 
 .jumbotron-header {
     font-size: 40px;
     font-weight: bold;
+}
+
+.portfolio-deck {
+    padding-bottom: 100px;
+    margin-bottom: 30px;
+    border-bottom: solid rgba(199, 199, 199, 0.548) 1px;
 }
 
 .portfolio-card {
