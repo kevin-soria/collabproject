@@ -13,6 +13,11 @@ body{
     background-color: white;
 }
 
+.jumbotron-header {
+    font-size: 40px;
+    font-weight: bold;
+}
+
 .portfolio-card {
     border: none;
 }
