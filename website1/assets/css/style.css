@@ -33,6 +33,16 @@ body{
  color: white;
 }
 
+/* carousel */
+
+.carousel {
+    height: 600px;
+    width: 1200px;
+}
+
+.slide {
+    height: 600px;
+}
 
 /* Portfolio */
 
