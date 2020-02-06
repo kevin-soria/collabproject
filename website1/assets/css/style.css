@@ -1,3 +1,7 @@
+* {
+    color: rgba(70, 70, 70, 0.911);
+}
+
 body{
     background: white;
 }
@@ -79,7 +83,7 @@ body{
 
 .portfolio-links {
     text-decoration: none;
-    color: black;
+    color: rgba(70, 70, 70, 0.911);
 }
 
 .portfolio-links:hover {
