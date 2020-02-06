@@ -1,9 +1,12 @@
 body{
     background: white;
 }
-/* asdfasdf */
 /*Jumbotron*/
+.card-img{ height: 100px;
+  width: 50%;
 
+
+}
 .jumbotron-top {
     background-image: url(https://image.freepik.com/free-photo/panorama-statue-liberty-with-one-world-trade-building-center-hudson-river-new-york-cityscape-background-landmarks-lower-manhattan-new-york-city_1439-233.jpg);
     width: 100%;
