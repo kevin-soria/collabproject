@@ -37,7 +37,8 @@ body{
 
 .carousel {
     height: 600px;
-    width: 1200px;
+    width: 1080px;
+    margin-left: 0px; 
 }
 
 .slide {
@@ -119,6 +120,15 @@ body{
 
 
 /* first headings--------------------------------->* first headings--------------------------------->* first headings--------------------------------->*/
+
+.card-1 {
+    max-width: 1080px!important;
+}
+
+.con-1 {
+    max-width: 1080px!important;
+}
+
 .imgcircle1 {
   border-radius: 50%;
 width: 200px;
