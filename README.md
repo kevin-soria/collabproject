@@ -1,5 +1,10 @@
 # Git Collabotarive
 
+To run:
+
+cd exercise-git-collabration
+$ python3 -m http.server 3000
+
 Use this project to practice your students skills in GIT while developing a porfolio website.
 
 Each student works on a different file, for a different part of the website and the teacher can run the entire website. The Html-Template-Engine library will take care of putting all the pieces together.
