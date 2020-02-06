@@ -1,9 +1,54 @@
+* {
+    color: rgba(70, 70, 70, 0.911);
+}
+
 body{
     background: white;
 }
+/* asdfasdf */
+/*Jumbotron*/
 
+.jumbotron-top {
+    background-image: url(https://image.freepik.com/free-photo/panorama-statue-liberty-with-one-world-trade-building-center-hudson-river-new-york-cityscape-background-landmarks-lower-manhattan-new-york-city_1439-233.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+	background-repeat: no-repeat;
+    padding: 4%;
+    margin-top: 0px!important;
+}
 
+    .container-fluid {
+    margin: 0px;
+    padding: 0px;
+}
+
+    .display-4{background-color: whitesmoke;
+            font-weight: bold; }
+
+<<<<<<< HEAD
 /*Portfolio*/
+=======
+   .lead1{background-color: whitesmoke;
+   font-weight: bold;
+   }        
+.link a {
+ color: white;
+}
+
+/* carousel */
+
+.carousel {
+    height: 600px;
+    width: 1200px;
+}
+
+.slide {
+    height: 600px;
+}
+
+/* Portfolio */
+>>>>>>> 5071fc841d3efd336372c1fb0b78210141785f81
 
 .portfolio-jumbotron {
     border-top: solid rgba(199, 199, 199, 0.548) 1px;
@@ -13,10 +58,23 @@ body{
 .portfolio-jumbotron-header {
     font-size: 40px;
     font-weight: bold;
+    background-color: white;
+}
+
+.portfolio-icon {
+    transition: all 0.6s ease-in-out 0s;
+}
+
+.portfolio-icon:hover {
+    cursor: default;
+    transform: rotate(360deg);
+    transition: all 0.6s ease-in-out 0s;
+}
 }
 
 .portfolio-jumbotron-text {
     margin-bottom: 8px;
+    background-color: white;
 }
 
 .portfolio-deck {
@@ -27,6 +85,7 @@ body{
 
 .portfolio-card {
     border: none;
+<<<<<<< HEAD
 }
 
 
@@ -46,3 +105,24 @@ body{
 
 
 /* end of Form */
+=======
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
+}
+
+.portfolio-card:hover {
+  top: -10px;
+  box-shadow: 0px 0px 10px 0px black;
+}
+
+.portfolio-links {
+    text-decoration: none;
+    color: rgba(70, 70, 70, 0.911);
+}
+
+.portfolio-links:hover {
+    text-decoration: none;
+    color: black;
+}
+>>>>>>> 5071fc841d3efd336372c1fb0b78210141785f81
