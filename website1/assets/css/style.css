@@ -27,7 +27,6 @@ body{
     transform: rotate(360deg);
     transition: all 0.6s ease-in-out 0s;
 }
-}
 
 .portfolio-jumbotron-text {
     margin-bottom: 8px;
@@ -65,9 +64,6 @@ width: 200px;
     height: 300px;
 }
 
-.hc1{
-
-}
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
   background-color: transparent;
@@ -115,14 +111,4 @@ width: 200px;
   color: white;
   transform: rotateY(180deg);
 }
-
-
-
-
-
-
-
-
-
-/* first headings-----------^------------^----------------^------------>first headings-----------^------------^----------------^------------> first headings-----------^------------^----------------^------------>  */
 
