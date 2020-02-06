@@ -13,9 +13,13 @@ body{
     background-color: white;
 }
 
-.jumbotron-header {
+.portfolio-jumbotron-header {
     font-size: 40px;
     font-weight: bold;
+}
+
+.portfolio-jumbotron-text {
+    margin-bottom: 8px;
 }
 
 .portfolio-deck {
