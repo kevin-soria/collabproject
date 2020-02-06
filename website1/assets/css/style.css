@@ -10,7 +10,7 @@ body{
     height: 500px;
     background-size: cover;
 	background-repeat: no-repeat;
-    padding: 2%;
+    padding: 4%;
     margin-top: 0px!important;
 }
 
@@ -25,6 +25,9 @@ body{
    .lead1{background-color: whitesmoke;
    font-weight: bold;
    }        
+.link a {
+ color: white;
+}
 
 
 /* Portfolio */
