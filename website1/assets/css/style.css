@@ -43,6 +43,7 @@ body{
 
 .slide {
     height: 600px;
+    margin-top: 50px;
 }
 
 /* Portfolio */
@@ -121,22 +122,20 @@ body{
 
 /* first headings--------------------------------->* first headings--------------------------------->* first headings--------------------------------->*/
 
-.card-1 {
-    max-width: 1080px!important;
-}
-
-.con-1 {
-    max-width: 1080px!important;
+.cardss {
+    border: none;
+    border-bottom: solid rgba(199, 199, 199, 0.548) 1px;
+    margin-bottom: 20px;
 }
 
 .imgcircle1 {
   border-radius: 50%;
-width: 200px;
+    width: 200px;
     height: 300px 
 
 }
 .imgcircle2 {
-  border-radius: 50%;
+    border-radius: 50%;
     width: 200px;
     height: 300px;
 }
