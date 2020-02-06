@@ -3,9 +3,6 @@ body{
 }
 
 
-
-
-
 /*Portfolio*/
 
 .portfolio-jumbotron {
@@ -25,9 +22,27 @@ body{
 .portfolio-deck {
     padding-bottom: 100px;
     margin-bottom: 30px;
-    border-bottom: solid rgba(199, 199, 199, 0.548) 1px;
+    border-bottom: solid rgb(255, 253, 253) 1px;
 }
 
 .portfolio-card {
     border: none;
 }
+
+
+/* Form */
+.form-container {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    max-width:750px;
+    border-radius: 2px;
+    padding: 8px 8px 25px 1px;
+    background-color: rgba(216, 216, 216, 0.541);
+    box-shadow: 0 0 2px black;
+}
+
+
+
+
+
+/* end of Form */
