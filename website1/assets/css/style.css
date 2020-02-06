@@ -1,4 +1,8 @@
 body{
-    background: rgb(90, 3, 189);
-    color: white;
+    background: white;
+}
+
+.portfolio-jumbotron {
+    border-top: solid rgb(172, 171, 171) 1px;
+    background-color: white;
 }
