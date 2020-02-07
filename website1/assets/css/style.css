@@ -29,9 +29,10 @@ body{
 
    .lead1{background-color: whitesmoke;
    font-weight: bold;
-   }        
-.link a {
- color: white;
+   }   
+   
+.whiteText {
+color: white
 }
 
 /* carousel */
@@ -113,11 +114,6 @@ body{
     background-color: rgba(216, 216, 216, 0.541);
     box-shadow: 0 0 2px black;
 }
-
-
-
-
-
 /* end of Form */
 
 
