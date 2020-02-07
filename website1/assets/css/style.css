@@ -16,6 +16,7 @@ body{
 	background-repeat: no-repeat;
     padding: 4%;
     margin-top: 0px!important;
+    background-attachment: fixed;
 }
 
     .container-fluid {
@@ -186,4 +187,8 @@ body{
   background-color: grey;
   color: white;
   transform: rotateY(180deg);
+}
+
+.jumbotitle{
+    background: transparent;
 }
